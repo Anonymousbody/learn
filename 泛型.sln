@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "泛型", "泛型\泛型.csproj", "{A2F40FAD-3380-4F92-9481-3A009FF0C04D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "逻辑", "逻辑\逻辑.csproj", "{1CF3EAF9-62E2-461E-807C-5FB0864045C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2F40FAD-3380-4F92-9481-3A009FF0C04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F40FAD-3380-4F92-9481-3A009FF0C04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F40FAD-3380-4F92-9481-3A009FF0C04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F40FAD-3380-4F92-9481-3A009FF0C04D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CF3EAF9-62E2-461E-807C-5FB0864045C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF3EAF9-62E2-461E-807C-5FB0864045C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF3EAF9-62E2-461E-807C-5FB0864045C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF3EAF9-62E2-461E-807C-5FB0864045C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DAEA1A0-8C3F-46FD-8E23-ED66E7953E62}
+	EndGlobalSection
+EndGlobal
